@@ -4,6 +4,8 @@
  * Description: Defines a Stack class for implementing a stack data structure.
  *              The stack supports basic operations including push, pop, and top, along with
  *              methods to check if the stack is empty and to get the number of elements.
+ *
+ * Class Invariant: FILO or LIFO order
  * 
  * Author: Cayden Yoo
  * 

@@ -1,11 +1,15 @@
 /*
  * Stack.h
  *
- * Description: Stack to perform calculator operations
+ * Description: Defines a Stack class for implementing a stack data structure.
+ *              The stack supports basic operations including push, pop, and top, along with
+ *              methods to check if the stack is empty and to get the number of elements.
+ *
+ * Class Invariant: FILO or LIFO order
  * 
  * Author: Cayden Yoo
  * 
- * Last Modified: August 13, 2024
+ * Last Modified: August 18, 2024
  */
 
 #ifndef STACK_H
